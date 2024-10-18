@@ -1,4 +1,4 @@
-importScripts('http://localhost:5173/utils.js')
+importScripts('http://localhost:6616/utils.js')
 
 onmessage = function (event) {
   console.log(`主线程接收: ${event.data}`)

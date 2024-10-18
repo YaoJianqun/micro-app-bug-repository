@@ -1,3 +1,0 @@
-function performComplexCalculation() {
-  return "calculation";
-}
