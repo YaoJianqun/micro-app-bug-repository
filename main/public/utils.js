@@ -1,0 +1,3 @@
+function performComplexCalculation() {
+  return "calculation";
+}
